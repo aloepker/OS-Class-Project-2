@@ -1,0 +1,29 @@
+commit 7ed03a6f03ba5e7acca7a0b6b06752d22604aba3
+Author: aloepker <aloepker@gmail.com>
+Date:   Mon Sep 11 20:46:02 2023 -0500
+
+    Last commit! Code layout was organized in oss.c and worker.c. README was revised to specification. Project1 is ready to turn in!
+
+commit 0bce5dd023c10af7c9d7431598fd570d9c2b4142
+Author: aloepker <aloepker@gmail.com>
+Date:   Sun Sep 10 20:35:32 2023 -0500
+
+    Finished loop implementation for oss.c
+
+commit c8736f56bc0643cb31d05174b3b1eb32792ca6bf
+Author: aloepker <aloepker@gmail.com>
+Date:   Sat Sep 9 18:29:33 2023 -0500
+
+    Got fork() and exec1() to work correctly on oss.c. Updated the readme also.
+
+commit 6f0aec029c0f3a470555bac3572b2d54bc08fb71
+Author: adam loepker <loepker@opsys.cs.umsl.edu>
+Date:   Thu Sep 7 12:53:18 2023 -0500
+
+    Day 2: Makefile updated and finished, worker.c also updated and finished I think.
+
+commit c8c5a98df1f31bcafcfa98ef8a159b85bbc6a99e
+Author: adam loepker <loepker@opsys.cs.umsl.edu>
+Date:   Wed Sep 6 15:11:48 2023 -0500
+
+    Day one: project analyzed. Skeleton files created. Task list outlined in the README. dotC files indicate their general purpose.
