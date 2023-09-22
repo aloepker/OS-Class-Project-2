@@ -1,1 +1,22 @@
-Fu=inished coppying from project1 and cleaning the directory!
+Finished coppying from project1 and cleaning the directory!
+
+Day 1: Set up source files and makefile  --  DONE!
+
+Day 2: Have oss create shared memory with a clock,
+ then fork off one child and have that child access the shared memory
+
+Day 3: verify code to parse options/command parameters
+
+Day 4: Implement worker taking in anoption and doing its loop and output w/
+ oss increments (do not do this in a loop)
+
+Day 5: Implement oss to fork and exec a worker to do its task,
+ have oss figure out when it is done
+
+Day 6: Get oss to fork workers to the specified number and do their tasks
+
+Day 7: Implement the simultaneous restriction,
+ Also implement the process table and store data in it
+
+Day 8: Test the project, clean up dose,
+ and update usage statement in the README
